@@ -1,0 +1,6 @@
+TensorFlow
+Keras
+Librosa
+NumPy
+Matplotlib
+pandas
